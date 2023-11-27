@@ -1,4 +1,4 @@
-<img src="_img/af.png" width="100" style="float:left;">
+<img src="_img/af.png" width="100" align="left">
 
 # AF-117
 ## Arctic fox 117
