@@ -38,7 +38,7 @@ _Without SMTP setting, mail sending not working_
   docker compose build
   docker compose up -d
   ```
-- Open the URL http://localhost/ in your browser
+- Open the URL http://localhost/ in your browser.
   You will be see Django REST framework dashboard.
   ![Django REST framework](_img/af-117.png)
 
