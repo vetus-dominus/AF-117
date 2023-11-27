@@ -19,14 +19,14 @@
 ### API overview
 #### Book list
 - Get all records - ```GET /booklist/```
-- Get one row by ID - ```GET /booklist/<ID>```
-- Create new book record - ```POST /booklist/```
+- Get row by ID - ```GET /booklist/<ID>```
+- Create new row - ```POST /booklist/```
 - Modify record - ```PUT /booklist/<ID>```
 - Delete record - ```DELETE /booklist/<ID>```
 #### Book list
 - Get all records - ```GET /users/```
-- Get one row by ID - ```GET /users/<ID>```
-- Create new book record - ```POST /users/```
+- Get row by ID - ```GET /users/<ID>```
+- Create new row - ```POST /users/```
 - Modify record - ```PUT /users/<ID>```
 - Delete record - ```DELETE /users/<ID>```
 
