@@ -6,6 +6,27 @@
   ```shell
   git clone https://github.com/vetus-dominus/AF-117.git
   ```
+- Create .env file for settings SMTP (uncomment and check lines for local develod machine)
+> # MYSQL SETTINGS
+> # DB_NAME               = 'library'
+> # DB_HOST               = '127.0.0.1'
+> # DB_PORT               = '3306'
+> # DB_USER               = 'root'
+> # DB_PASSWORD           = 'password'
+> #
+> # CELERY SETTINGS
+> # CELERY_BROKER_URL     = 'redis://127.0.0.1:6379'
+> # CELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'
+> #
+> # EMAIL SMTP SETTINGS
+> MAIL_FROM             = '<YOUR EMAIL>'
+> EMAIL_HOST            = 'smtp.yandex.ru'
+> EMAIL_USE_TLS         = ''
+> EMAIL_USE_SSL         = True
+> EMAIL_PORT            = 465
+> EMAIL_HOST_USER       = '<YOUR USERNAME>'
+> EMAIL_HOST_PASSWORD   = '<YOUR PASSWORD>'
+_Without SMTP setting, mail sending not working_
 - Create and run Docker container
   ```shell
   cd AF-117
