@@ -7,6 +7,9 @@
   git clone https://github.com/vetus-dominus/AF-117.git
   ```
 - Create .env file for settings SMTP (uncomment and check lines for local develod machine)
+```shell
+nano AF-117/backend/.env
+```
 ```text
 # MYSQL SETTINGS
 # DB_NAME               = 'library'
