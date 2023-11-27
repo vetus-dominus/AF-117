@@ -1,4 +1,4 @@
-![Django REST framework](_img/af.png | width=100)
+![Django REST framework](_img/af.png)
 # AF-117
 ## Arctic fox 117
 ### Get started
