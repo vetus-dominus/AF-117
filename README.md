@@ -18,16 +18,16 @@
 
 ### API overview
 #### Book list
-- Get all records - GET /booklist/
-- Get one row by ID - GET /booklist/<ID>
-- Create new book record - POST /booklist/
-- Modify record - PUT /booklist/<ID>
-- Delete record - DELETE /booklist/<ID>
+- Get all records - ```GET /booklist/```
+- Get one row by ID - ```GET /booklist/<ID>```
+- Create new book record - ```POST /booklist/```
+- Modify record - ```PUT /booklist/<ID>```
+- Delete record - ```DELETE /booklist/<ID>```
 #### Book list
-- Get all records - GET /users/
-- Get one row by ID - GET /users/<ID>
-- Create new book record - POST /users/
-- Modify record - PUT /users/<ID>
-- Delete record - DELETE /users/<ID>
+- Get all records - ```GET /users/```
+- Get one row by ID - ```GET /users/<ID>```
+- Create new book record - ```POST /users/```
+- Modify record - ```PUT /users/<ID>```
+- Delete record - ```DELETE /users/<ID>```
 
 For overview features we recommended use Django REST framework (http://localhost/)
