@@ -1,0 +1,8 @@
+django
+celery[redis]
+mysqlclient
+python-dotenv
+# Django REST framework
+djangorestframework
+markdown
+django-filter
