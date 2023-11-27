@@ -1,8 +1,4 @@
-<img
-  src="_img/af.png"
-  alt="Arctic fox 117"
-  title="Arctic fox 117"
-  style="display: inline-block; margin: 0 auto; max-width: 144px">
+![ArcticFox-117](_img/af.png | width=100)
 # AF-117
 ## Arctic fox 117
 ### Get started
