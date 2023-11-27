@@ -15,13 +15,13 @@ from library.serializers       import UsersSerializer
 from django.conf               import settings
 
 class BooklistViewSet(viewsets.ModelViewSet):
-    """ BooklistViewSet """
+    """ BooklistViewSet view for book list """
     serializer_class = BooklistSerializer
     queryset         = Booklist.objects.all()
 
 
 class UsersViewSet(viewsets.ModelViewSet):
-    """ UsersViewSet """
+    """ UsersViewSet view for users """
     serializer_class = UsersSerializer
     queryset         = Users.objects.all()
 
