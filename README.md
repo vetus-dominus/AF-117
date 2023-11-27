@@ -42,7 +42,8 @@ _Without SMTP setting, mail sending not working_
   ```
 - Open the URL http://localhost/ in your browser.
   You will be see Django REST framework dashboard.
-  ![Django REST framework](_img/af-117.png)
+
+![Django REST framework](_img/af-117.png)
 
 ### API overview
 #### Book list
