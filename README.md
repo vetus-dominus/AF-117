@@ -49,7 +49,7 @@ _Without SMTP setting, mail sending not working_
 - Create new row - ```POST /booklist/```
 - Modify record - ```PUT /booklist/<ID>```
 - Delete record - ```DELETE /booklist/<ID>```
-#### Book list
+#### Users
 - Get all records - ```GET /users/```
 - Get row by ID - ```GET /users/<ID>```
 - Create new row - ```POST /users/```
