@@ -1,7 +1,7 @@
 <img src="_img/af.png" width="150" align="left">
 
 # AF-117
-## Arctic fox 117
+## Arctic fox
 ### Get started
 - Install Docker with the Compose plugin (see: https://docs.docker.com/compose/install/)
 - Clone this project
